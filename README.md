@@ -1,6 +1,6 @@
 # OpenSoftware_database_
 ------------------------
 
-#### database
+## database
 ### from 
-# 이은비
+#### 1반_202075390_이은비
